@@ -1,7 +1,3 @@
-<!--
-  Profile README for github.com/keanedwards1
-  Create a public repository named "keanedwards1" and add this as README.md.
--->
 
 <div align="center">
 
@@ -49,11 +45,10 @@ I design, build, and maintain production websites and applications, with a focus
 ## Tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,sqlite,supabase,git,vercel" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Tailwind CSS, PostgreSQL, SQLite, Supabase, Git, and Vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,nodejs,aws,git,npm,githubactions" alt="TypeScript, JavaScript, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, AWS, Git, npm, and GitHub Actions" />
 </p>
 
-**Frontend:** TypeScript · JavaScript · React · Next.js · Tailwind CSS  
-**Backend and data:** Node.js · Express · PostgreSQL · SQLite · Supabase  
-**Also:** REST APIs · authentication · SEO · analytics · email integrations · deployment and maintenance
-
+**Frontend:** TypeScript · JavaScript · HTML · CSS · React · Next.js · Tailwind CSS  
+**Backend and cloud:** Node.js · AWS SAM/CloudFormation · Lambda · API Gateway · S3 · DynamoDB  
+**Development tools:** Git · npm · ESLint · GitHub Actions · Chrome DevTools
 
