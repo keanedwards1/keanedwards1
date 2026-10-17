@@ -11,7 +11,7 @@ I design, build, and maintain production websites and applications, with a focus
 
 <br />
 
-<a href="https://github.com/keanedwards1">
+<a href="https://www.kean-edwards.com/">
   <img src="https://img.shields.io/badge/Portfolio-kean--edwards.com-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/kean-edwards/">
