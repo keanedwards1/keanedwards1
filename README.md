@@ -7,7 +7,7 @@
 
 # Hey, I'm Kean 👋
 
-### Full-stack developer building thoughtful, useful web experiences
+### Web development contractor
 
 I design, build, and maintain production websites and applications, with a focus on **TypeScript, React, and Next.js**.
 
