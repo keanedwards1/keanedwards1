@@ -7,7 +7,7 @@
 
 # Hey, I'm Kean 👋
 
-### Web development contractor
+### Web Development Contractor
 
 I design, build, and maintain production websites and applications, with a focus on **TypeScript, React, and Next.js**.
 
